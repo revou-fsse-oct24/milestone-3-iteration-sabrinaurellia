@@ -142,6 +142,3 @@ Use Postman, cURL, or similar tools to send HTTP requests to the API.
 3. Database Initialization
 4. Running the Application using Flask
 5. Deployment
-  
-
-Updated project iteration.
